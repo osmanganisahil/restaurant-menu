@@ -1,0 +1,159 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+body {
+  color: #542f24;
+}
+.delivary-num {S
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: medium;
+   
+}
+.navbar .nav-item .nav-link{
+  color: #542f24;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: medium;
+  margin: 5px 10px;
+}
+.banner-sub-heading {
+  font-size: x-large;
+  border: 3px dashed;
+}
+.banner-heading-P1, .banner-heading-P2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 16vh;
+  font-weight: bolder;
+}
+.banner-heading-P2 {
+  font-size: 11vh;
+}
+.banner-burger-img {
+  width: 100%;
+  height: auto;
+  display: none;
+
+}
+.banner {
+  background-color: #ffc045;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.feathured-item-left {
+  height: 400px;
+}
+.featherd-item-text-1, .featherd-item-text-2 {
+  font-family: ui-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.featherd-item-text-2 {
+  font-size: 3em;
+}
+.common-font {
+  font-family: ui-serif;
+}
+.card-img-top {
+  height: 256px;
+}
+.avs{
+  box-shadow: 0 0 15px black;
+}
+.btn-font {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 16px 0;
+}
+
+.plate-img {
+  right: 0%;
+  top: 45%;
+}
+.bottle {
+  left: 13%;
+  top :40%;
+}
+.middle {
+  margin-bottom: 6%;
+}
+.f-logo {
+  left: 13%;
+  top :40%;
+
+}
+.ddd {
+  width: 100%;
+}
+.sss {
+  left: 3%;
+  top :13%;
+}
+.hhh {
+  left: -6%;
+  top :35%;
+  margin: 0 !important;
+}
+.address, .mail {
+  font-size: 6vh;
+}
+/* .icon {
+  font-size: 37px;
+  padding: 2px;
+} */
+
+@media only screen and (max-width: 576px) {
+
+}
+@media only screen and (min-width: 576px) {
+  
+}
+@media only screen and (max-width: 768px) {
+.featherd-item-text-2 {
+  font-size: 1em;
+ }
+.footer-logo {
+ font-size:90vh ;
+ }
+.footer-text {
+  font-size: 15px;
+  padding-top: 5px;
+}
+.contact {
+  padding-top: 30px;
+  font-size: 10px
+  fo
+}
+.sss {
+  left:2%;
+  top:5%
+}
+.address, .mail {
+  font-size: 5vh;
+}
+  
+
+}
+@media only screen and (min-width: 992px) {
+ .banner-burger-img {
+  display: block;
+ }
+ /* .header-text {
+  text-start;
+ } */
+}
+@media only screen and (max-width: 992px) {
+ .bun-img, .plate-img,.bottle,.discover-img  {
+    display: none;
+  }
+ .featherd-item-text-2 {
+  font-size: 2em;
+  }
+}
+@media only screen and (min-width: 1200px) {
+
+  
+}
+@media only screen and (min-width: 480px) {
+  
+}
